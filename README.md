@@ -1,16 +1,14 @@
-# flutter_application_2
+Flutter-based mobile application that allows users to scan products and instantly compare local and international market prices. The app helps users make smarter purchasing decisions by providing transparent price comparisons in real time.
+Features:
 
-A new Flutter project.
+📷 Product Barcode Scanning
 
-## Getting Started
+🌍 Local vs International Price Comparison
 
-This project is a starting point for a Flutter application.
+⚡ Real-Time API Integration
 
-A few resources to get you started if this is your first Flutter project:
+🎯 Smart Price Insights
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📱 Clean & Responsive UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🔐 Secure & Optimized Performance
